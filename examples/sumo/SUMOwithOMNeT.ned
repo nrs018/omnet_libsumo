@@ -1,8 +1,6 @@
 
 package inet.examples.sumo;
 
-import veins.nodes.RSU;
-import veins.nodes.Scenario;
 import inet.mobility.single.SUMOMap;
 import inet.node.inet.*;
 import inet.physicallayer.ieee80211.packetlevel.Ieee80211ScalarRadioMedium;
